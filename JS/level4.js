@@ -59,3 +59,36 @@ console.log(toPropreCase(nam));
 }
 let nam = "naTRayan";
 console.log(toPropreCase(nam)); */
+
+
+
+
+console.log("-------function practice-----------");
+
+// Functions
+
+// function syntex
+/* function functionname (){
+
+}
+functionname ();
+ */
+
+/* let name = "nanba";
+let res = "hello"+ " "+ name + " "+ "vada mapla";
+
+
+console.log(res); */
+
+function greetUser(name){
+    // set of statement
+    /* let name = "nanba"; */
+let res = "hello"+ " "+ name + " "+ "vada mapla";
+
+
+    console.log(res);
+}
+greetUser("partha");
+greetUser("sangeeth");
+greetUser("gowri");
+greetUser("jeffery");
